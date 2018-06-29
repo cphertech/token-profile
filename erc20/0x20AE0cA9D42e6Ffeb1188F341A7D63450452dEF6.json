@@ -1,0 +1,25 @@
+{
+  "symbol": "CPR",
+  "address": "0x20AE0cA9D42e6Ffeb1188F341A7D63450452dEF6",
+  "overview":{
+        "en": "Cipher (CPR) is Ethereum based ERC20 token for the crypto community to fund and raise capital through crypto assets by trading with crypto exchange, crypto advertising podium, crypto social media podium,health management information and advanced education learning podiums through latest technology."
+  },
+  "email": "ciphertech2018@gmail.com",
+  "website": "https://ciphercryptotech.org/",
+  "whitepaper": "https://ciphercryptotech.org/Cipher_White_Paper.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-04-09",
+  "initial_price":{
+        "ETH":"0.00003873 ETH",
+        "USD":"0.016 USD",
+        "BTC":"0.00000271 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/ciphertoken",
+    "telegram": "https://telegram.me/ciphernewz",
+    "github": "https://github.com/cphertech",
+    "facebook": "https://www.facebook.com/Cipher-301834550352016",
+    "instagram": "https://www.instagram.com/ciphertech2018",
+    "medium": "https://medium.com/@ciphertoken"
+  }
+}
